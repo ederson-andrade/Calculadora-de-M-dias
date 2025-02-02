@@ -1,0 +1,25 @@
+{
+  "name": "calculadora-de-medias",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ederson-andrade/Calculadora-de-M-dias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ederson-andrade/Calculadora-de-M-dias/issues"
+  },
+  "homepage": "https://github.com/ederson-andrade/Calculadora-de-M-dias#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
